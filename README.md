@@ -24,9 +24,15 @@
 
 ### 🛠️ Εργαλεία & Τεχνολογίες που χρησιμοποιώ
 ![Python](https://shields.io)
+![Java](https://shields.io)
+![C++](https://shields.io)
+![JavaScript](https://shields.io)
+![PHP](https://shields.io)
+![MySQL](https://shields.io)
+![Elasticsearch](https://shields.io)
 ![Streamlit](https://shields.io)
 ![Pandas](https://shields.io)
-![SQL](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
