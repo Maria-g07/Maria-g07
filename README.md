@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Maria-g07/Maria-g07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Γεια σας! Καλώς ήρθατε στο προφίλ μου! 👋✨
 
-Here are some ideas to get you started:
+Είμαι η **Μαρία** (--she/her--) και χαίρομαι πολύ που επισκεφτήκατε το GitHub μου! 🚀  
+Εδώ μοιράζομαι τα projects μου πάνω στην **Ανάλυση Δεδομένων**, την **Ανάπτυξη Εφαρμογών** και τις **Βάσεις Δεδομένων**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 Λίγα λόγια για εμένα
+* 🔭 **Always learning:** Έχω διαρκή περιέργεια για νέα εργαλεία, δεδομένα και δημιουργικές λύσεις.
+* 🌱 **Tech stack:** Ενημερώνομαι συνεχώς για τις σύγχρονες τεχνολογίες, τιμώντας πάντα και τις κλασσικές βάσεις.
+* ⚡ **Status:** Πολλές ώρες μπροστά σε οθόνες, αμέτρητοι κώδικες, αλλά 100% άνθρωπος (όχι ρομπότ ακόμα)! (❁´◡`❁)
+* 💬 **Communication:** Ο κώδικας είναι ο αγαπημένος μου τρόπος να επικοινωνώ ιδέες — μιλάει πιο καθαρά από τα λόγια!
+
+---
+
+### 💡 Τι θα βρείτε εδώ;
+* 📊 **Data Analytics & Visualization:** Διαδραστικά dashboards και προβλέψεις με Python & Streamlit.
+* 🗄️ **Databases & Information Retrieval:** Συστήματα βάσεων δεδομένων και αναζήτησης πληροφοριών.
+* 💻 **Software & Simulation Projects:** Εφαρμογές προσομοίωσης και διαχείρισης συστημάτων.
+
+---
+
+### 🛠️ Εργαλεία & Τεχνολογίες που χρησιμοποιώ
+![Python](https://shields.io)
+![Streamlit](https://shields.io)
+![Pandas](https://shields.io)
+![SQL](https://shields.io)
+
+---
+
+### 🌟 Ρίξτε μια ματιά στο νέο μου Project!
+👉 **[AI Smart Sales Dashboard](https://github.com)** — Ένα διαδραστικό εργαλείο ανάλυσης πωλήσεων και προβλέψεων AI.
+
+📫 *Μη διστάσετε να εξερευνήσετε τα repositories μου!* 😊
